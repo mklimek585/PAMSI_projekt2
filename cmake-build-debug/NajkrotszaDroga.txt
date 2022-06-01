@@ -1,0 +1,6 @@
+Wierzchołek startowy: 3
+Droga do wierzchołka 0: | 3 | 1 | 0 | koszt przejścia: 11
+Droga do wierzchołka 1: | 3 | 1 | koszt przejścia: 3
+Droga do wierzchołka 2: | 3 | 2 | koszt przejścia: 9
+Droga do wierzchołka 3: | 3 | koszt przejścia: 0
+Droga do wierzchołka 4: | 3 | 4 | koszt przejścia: 20

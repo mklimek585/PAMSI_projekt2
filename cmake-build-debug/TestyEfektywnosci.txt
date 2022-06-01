@@ -1,0 +1,94 @@
+TESTY MACIERZY 
+Ilosc wiercholkow 10
+Gestosc 0.25
+0.001351
+Gestosc 0.5
+0.00139
+Gestosc 0.75
+0.001114
+Gestosc 1
+0.00112
+Ilosc wiercholkow 20
+Gestosc 0.25
+0.003916
+Gestosc 0.5
+0.000228
+Gestosc 0.75
+0.00414
+Gestosc 1
+0.003868
+Ilosc wiercholkow 50
+Gestosc 0.25
+0.018046
+Gestosc 0.5
+0.01604
+Gestosc 0.75
+0.014385
+Gestosc 1
+0.013198
+Ilosc wiercholkow 100
+Gestosc 0.25
+0.041516
+Gestosc 0.5
+0.040831
+Gestosc 0.75
+0.039387
+Gestosc 1
+0.039587
+Ilosc wiercholkow 200
+Gestosc 0.25
+0.156001
+Gestosc 0.5
+0.155926
+Gestosc 0.75
+0.161892
+Gestosc 1
+0.160138
+
+
+TESTY LISTY 
+Ilosc wiercholkow 10
+Gestosc 0.25
+0.000388
+Gestosc 0.5
+0.000423
+Gestosc 0.75
+0.000387
+Gestosc 1
+0.000392
+Ilosc wiercholkow 20
+Gestosc 0.25
+0.001331
+Gestosc 0.5
+0.001286
+Gestosc 0.75
+0.001308
+Gestosc 1
+0.001265
+Ilosc wiercholkow 50
+Gestosc 0.25
+0.007606
+Gestosc 0.5
+0.007814
+Gestosc 0.75
+0.007668
+Gestosc 1
+0.007672
+Ilosc wiercholkow 100
+Gestosc 0.25
+0.039621
+Gestosc 0.5
+0.040945
+Gestosc 0.75
+0.039348
+Gestosc 1
+0.038333
+Ilosc wiercholkow 200
+Gestosc 0.25
+0.2036
+Gestosc 0.5
+0.204975
+Gestosc 0.75
+0.207966
+Gestosc 1
+0.207321
